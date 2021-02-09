@@ -13,6 +13,6 @@
 
 
 
-* Para visualizar o ranking dos produtores ganhadores do premio acesse o endereço abaixo no seu navegador:
+* Para visualizar o ranking dos produtores ganhadores do prêmio acesse o endereço abaixo no seu navegador:
 
 `http://localhost:8080/golden-raspbarry-awards/api/ranking`
